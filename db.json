@@ -1,22 +1,5 @@
-[
-        {
-            "moshikomiStatus":"S035",
-            "moshikomiId":"00000001",
-            "koshinDate":"20201101120000"
-        },
-        {
-            "moshikomiStatus":"S035",
-            "moshikomiId":"00000002",
-            "koshinDate":"20201102130000"
-        },
-        {
-            "moshikomiStatus":"S035",
-            "moshikomiId":"00000003",
-            "koshinDate":"20201103140000"
-        },
-        {
-            "moshikomiStatus":"S075",
-            "moshikomiId":"000005",
-            "koshinDate":"20201104150000"
-        }
-    ]
+{
+    "moshikomiId":"00000001",
+    "file":"data:jpg;base64,/iuOIdfowanUSD・・・",
+    "fileName":"123ABC.jpeg"
+}
