@@ -1,5 +1,4 @@
-{
-    "moshikomiIdList":[
+[
         {
             "moshikomiStatus":"S035",
             "moshikomiId":"00000001",
@@ -21,4 +20,3 @@
             "koshinDate":"20201104150000"
         }
     ]
-}
